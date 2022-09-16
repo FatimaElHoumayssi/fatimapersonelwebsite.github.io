@@ -41,14 +41,14 @@ h3 {
 
 .cloud-bottom {
   position: absolute;
-  bottom: 450px;
-  left: 300px;
+  bottom: 450rem;
+  left: 350rem;
 }
 
 .cloud-top {
   position: absolute;
-  top: 50px;
-  right: 200px;
+  top: 50rem;
+  right: 350rem;
 }
 
 a {
@@ -95,7 +95,7 @@ hr {
 
 a {
   color: #6892D5;
-  margin: 10px 20px;
+  margin: 10rem 20rem;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
