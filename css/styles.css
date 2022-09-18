@@ -27,9 +27,9 @@ h3 {
 
 .top-container {
   background-color: #C9FDD7;
-  padding-top: 100px;
+  padding-top: /*100px*/ 6.25rem;
   position: relative;
-  margin-bottom: 100px;
+  margin-bottom: /*100px*/ 6.25rem;
 }
 
 .middle-container {
@@ -42,14 +42,14 @@ h3 {
 
 .cloud-bottom {
   position: absolute;
-  bottom: /*450px*/28.125rem;
-  left: /*350rem*/21.875rem;
+  bottom: 450px/*28.125rem*/;
+  left: 200px/*21.875rem*/;
 }
 
 .cloud-top {
   position: absolute;
-  top: /*50rem*/3.125rem;
-  right: /*350rem*/21.875rem;
+  top: 50px/*3.125rem*/;
+  right: 150px/*21.875rem*/;
 }
 
 a {
